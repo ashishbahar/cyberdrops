@@ -38,7 +38,7 @@ const MyNav = () => {
               >
                 Home
               </a>
-            </li>{" "}
+            </li>
             <li className=" ms-lg-3">
               <a
                 className=" ff_lato_400 fs_xsm color_white cream_hover link"
@@ -46,7 +46,7 @@ const MyNav = () => {
               >
                 About
               </a>
-            </li>{" "}
+            </li>
             <li className=" ms-lg-3">
               <a 
                 className=" ff_lato_400 fs_xsm color_white cream_hover link"
@@ -54,7 +54,7 @@ const MyNav = () => {
               >
                 Team
               </a>
-            </li>{" "}
+            </li>
             <li className=" ms-lg-3">
               <a
                 className=" ff_lato_400 fs_xsm color_white cream_hover link"
@@ -62,7 +62,7 @@ const MyNav = () => {
               >
                 Roadmap
               </a>
-            </li>{" "}
+            </li>
             <li className=" ms-lg-3">
               <a
                 className=" ff_lato_400 fs_xsm color_white cream_hover link"
@@ -87,7 +87,7 @@ const MyNav = () => {
                   src={discord}
                   alt="discord"
                 />
-              </a>{" "}
+              </a>
               <a href="#" className="border_white mx-1 position-relative">
                 <span className="img_shadow position-absolute"></span>
                 <img
@@ -95,7 +95,7 @@ const MyNav = () => {
                   src={twiter}
                   alt="twiter"
                 />
-              </a>{" "}
+              </a>
               <a href="#" className="border_white mx-1 position-relative">
                 <span className="img_shadow position-absolute"></span>
                 <img

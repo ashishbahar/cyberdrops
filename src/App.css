@@ -506,7 +506,7 @@
 }
 
 /* Container around content */
-.containertimeline {
+.container_roadmap {
   padding-bottom: 50px;
   padding-left: 50px;
   position: relative;
@@ -515,7 +515,7 @@
   padding-top: 0 !important;
 }
 
-.containertimeline2 {
+.container_roadmap2 {
   padding-left: 0px;
   padding-right: 50px;
   padding-bottom: 50px;
@@ -525,7 +525,7 @@
   padding-top: 0 !important;
 }
 
-.containertimeline3 {
+.container_roadmap3 {
   padding-bottom: 50px;
   padding-left: 50px;
   position: relative;
@@ -535,7 +535,7 @@
   padding-top: 0 !important;
 }
 
-.containertimeline4 {
+.container_roadmap4 {
   padding-left: 0px;
   padding-right: 50px;
   padding-bottom: 50px;
@@ -545,7 +545,7 @@
   padding-top: 0 !important;
 }
 
-.containertimeline5 {
+.container_roadmap5 {
   padding-bottom: 50px;
   padding-left: 50px;
   position: relative;
@@ -554,7 +554,7 @@
   padding-top: 0 !important;
 }
 
-.containertimeline6 {
+.container_roadmap6 {
   padding-left: 0px;
   padding-right: 50px;
   padding-bottom: 50px;
@@ -564,7 +564,7 @@
   padding-top: 0 !important;
 }
 
-.containertimeline7 {
+.container_roadmap7 {
   padding-bottom: 50px;
   padding-left: 50px;
   position: relative;
@@ -573,7 +573,7 @@
   padding-top: 0 !important;
 }
 
-.containertimeline8 {
+.container_roadmap8 {
   padding-left: 0px;
   padding-right: 50px;
   padding-bottom: 50px;
@@ -585,7 +585,7 @@
 }
 
 /* The circles on the timeline */
-.containertimeline::after {
+.container_roadmap::after {
   content: url(./assets//images/svg/item_1.svg);
   position: absolute;
   width: 25px;
@@ -597,7 +597,7 @@
   z-index: 1;
 }
 
-.containertimeline2::after {
+.container_roadmap2::after {
   content: url(./assets//images/svg/item_2.svg);
   position: absolute;
   width: 25px;
@@ -609,7 +609,7 @@
   z-index: 1;
 }
 
-.containertimeline3::after {
+.container_roadmap3::after {
   content: url(./assets//images/svg/item_3.svg);
   position: absolute;
   width: 25px;
@@ -621,7 +621,7 @@
   z-index: 1;
 }
 
-.containertimeline4::after {
+.container_roadmap4::after {
   content: url(./assets//images/svg/item_4.svg);
   position: absolute;
   width: 25px;
@@ -632,7 +632,7 @@
   z-index: 1;
 }
 
-.containertimeline5::after {
+.container_roadmap5::after {
   content: url(./assets//images/svg/item_8.svg);
   position: absolute;
   width: 25px;
@@ -643,7 +643,7 @@
   z-index: 1;
 }
 
-.containertimeline6::after {
+.container_roadmap6::after {
   content: url(./assets//images/svg/item_6.svg);
   position: absolute;
   width: 25px;
@@ -654,7 +654,7 @@
   z-index: 1;
 }
 
-.containertimeline7::after {
+.container_roadmap7::after {
   content: url(./assets//images/svg/item_7.svg);
   position: absolute;
   width: 25px;
@@ -665,7 +665,7 @@
   z-index: 1;
 }
 
-.containertimeline8::after {
+.container_roadmap8::after {
   content: url(./assets//images/svg/item_8.svg);
   position: absolute;
   width: 25px;
@@ -734,11 +734,11 @@
   right: -67px;
 }
 
-.max_w_300 {
-  max-width: 300px;
+.max_width_299 {
+  max-width: 299px;
 }
 
-.paddingend {
+.padding_right {
   padding-right: 50px;
   padding-top: 0 !important;
   padding-bottom: 50px;
@@ -756,13 +756,13 @@
     left: 31px;
   }
 
-  .containertimeline {
+  .container_roadmap {
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
   }
 
-  .containertimeline::before {
+  .container_roadmap::before {
     left: 60px;
     border: medium solid white;
     border-width: 10px 10px 10px 0;

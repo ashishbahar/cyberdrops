@@ -11,17 +11,17 @@ const RoadMap = () => {
       <Container>
         <div className="max_width_825 mx-auto">
           <div class="timeline">
-            <div class="containertimeline right">
-              <div class="content max_w_30 0 ms-5 m s-auto">
+            <div class="container_roadmap right">
+              <div class="content max_width_299 ms-5 m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">March 2022</h2>
                 <p className="ff_lato_400 fs_xsm color_white">
                   1000 Drops Launch on Ethereum
                 </p>
               </div>
             </div>
-            <div class="containertimeline2 left text-end">
+            <div class="container_roadmap2 left text-end">
               <div class="content_left">
-                <div className="paddingend">
+                <div className="padding_right">
                   <h2 className="ff_lato_600 fs_lg color_white">March 2022</h2>
                   <p className="ff_lato_400 fs_xsm color_white">
                     1000 Drops Launch on Ethereum
@@ -29,7 +29,7 @@ const RoadMap = () => {
                 </div>
               </div>
             </div>
-            <div class="containertimeline3 right">
+            <div class="container_roadmap3 right">
               <div class="content max_w_30 0 ms-5 m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">March 2022</h2>
                 <p className="ff_lato_400 fs_xsm color_white">
@@ -37,9 +37,9 @@ const RoadMap = () => {
                 </p>
               </div>
             </div>
-            <div class="containertimeline4 left text-end">
+            <div class="container_roadmap4 left text-end">
               <div class="content_left">
-                <div className="paddingend">
+                <div className="padding_right">
                   <h2 className="ff_lato_600 fs_lg color_white">April 2022</h2>
                   <p className="ff_lato_400 fs_xsm color_white">
                     Our First Airdrop
@@ -47,15 +47,15 @@ const RoadMap = () => {
                 </div>
               </div>
             </div>
-            <div class="containertimeline5 right">
+            <div class="container_roadmap5 right">
               <div class="content max_w_30 0 ms-5 m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">June 2022</h2>
                 <p className="ff_lato_400 fs_xsm color_white">Major Collabs</p>
               </div>
             </div>
-            <div class="containertimeline6 left text-end">
+            <div class="container_roadmap6 left text-end">
               <div class="content_left">
-                <div className="paddingend">
+                <div className="padding_right">
                   <h2 className="ff_lato_600 fs_lg color_white">
                     Sometime in Q3
                   </h2>
@@ -65,7 +65,7 @@ const RoadMap = () => {
                 </div>
               </div>
             </div>
-            <div class="containertimeline7 right">
+            <div class="container_roadmap7 right">
               <div class="content max_w_30 0 ms-5 m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">
                   Sometime in Q3
@@ -76,9 +76,9 @@ const RoadMap = () => {
               </div>
             </div>
           </div>
-          <div class="containertimeline8 left text-end">
+          <div class="container_roadmap8 left text-end">
             <div class="content_left">
-              <div className="paddingend">
+              <div className="padding_right">
                 <h2 className="ff_lato_600 fs_lg color_white">
                   Sometime in Q4
                 </h2>

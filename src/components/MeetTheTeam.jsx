@@ -75,7 +75,7 @@ const MeetTheTeam = () => {
         className=" position-absolute top_23 d-none d-xl-block  start-0"
         src={fade_img2}
         alt="fade_img2"
-      />{" "}
+      />
       <img
         className=" position-absolute bottom_50 d-none d-xl-block  end-0"
         src={fade_img2}
@@ -89,7 +89,7 @@ const MeetTheTeam = () => {
           <Slider {...settings} className="m-0">
             <Col lg={6} className="px-4">
               <div className=" bg-white rounded-5">
-                {" "}
+                
                 <Row className="align-items-center">
                   <Col xs={12} sm={6} className="m-auto">
                     <img
@@ -110,10 +110,10 @@ const MeetTheTeam = () => {
                   </Col>
                 </Row>
               </div>
-            </Col>{" "}
+            </Col>
             <Col lg={6} className="px-4">
               <div className=" bg-white rounded-5">
-                {" "}
+                
                 <Row className="align-items-center">
                   <Col xs={12} sm={6} className="m-auto">
                     <img
@@ -125,7 +125,7 @@ const MeetTheTeam = () => {
                   <Col xs={12} sm={6} className="text-center mt-3 mt-sm-0">
                     <h2>Shubh Sharma</h2>
                     <p>Operations Director</p>
-                    <p>https: // www.linkedin.com /in /shubhsharma01/</p>{" "}
+                    <p>https: // www.linkedin.com /in /shubhsharma01/</p>
                     <div className="d-flex justify-content-center pb-4 pb-sm-0">
                       <img src={discord2} alt="linkimg" />
                       <img className="mx-3" src={twiter2} alt="linkimg" />
@@ -134,10 +134,10 @@ const MeetTheTeam = () => {
                   </Col>
                 </Row>
               </div>
-            </Col>{" "}
+            </Col>
             <Col lg={6} className="px-4 ">
               <div className=" bg-white rounded-5">
-                {" "}
+                
                 <Row className="align-items-center">
                   <Col xs={12} sm={6} className="m-auto">
                     <img
@@ -149,7 +149,7 @@ const MeetTheTeam = () => {
                   <Col xs={12} sm={6} className="text-center mt-3 mt-sm-0">
                     <h2>Varun Muthu</h2>
                     <p>Marketing Director</p>
-                    <p>https: // www.linkedin.com /in /varunmuthu1</p>{" "}
+                    <p>https: // www.linkedin.com /in /varunmuthu1</p>
                     <div className="d-flex justify-content-center pb-4 pb-sm-0">
                       <img src={discord2} alt="linkimg" />
                       <img className="mx-3" src={twiter2} alt="linkimg" />
