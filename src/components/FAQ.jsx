@@ -10,7 +10,7 @@ function BasicExample() {
         src={fade_img_3}
         alt="fade_img_3"
       />
-      <Container className="py-lg-5">
+      <Container className="pb-lg-5">
         <h2 className=" ff_lato_700 fs_3xl color_cream text-center py-md-5 py-3">
           FAQ<span className="color_white">’s</span>
         </h2>
